@@ -1,0 +1,31 @@
+{
+    "gamesWithAccounts":{
+        "Rust":{
+            "price":199,
+            "description":"акаунт",
+            "genre":"Екшен",
+            "language":"Мультимовний",
+            "date":"08.02.2018",
+            "publisher":"Facepunch",
+            "activation":"steam",
+            "online":"Наявний",
+            "text":"Rust - комп`ютерна гра в жанрі симулятора виживання, була створена незалежною британською компанією Facepunch Studios, очолюваною з 2014 Гаррі Ньюменом. Гра була випущена в ранньому доступі в грудні 2013 року, 8 лютого 2018 відбувся її повноцінний реліз для Windows і macOS. Версії для PlayStation 4 і Xbox One, що розробляються спільно зі студією Double Eleven, випустили 21 травня 2021 року. Rust спочатку створювався як клон DayZ з елементами крафтингу, подібними до таких у Minecraft.",
+            "cpu":"Intel Core i7-3770 / AMD FX-9590 or better",
+            "ram":"10 GB ОЗУ",
+            "gpu":"GTX 670 2GB / AMD R9 280 better",
+            "size":"25 GB",
+            "stock":"true"
+        }
+        
+    },
+    "casesWithGames":{
+        "Silver Case":{
+            "price":39,
+            "description":"ключ-кейс",
+            "stock":true,
+            "text":"Silver Case який містить рандомний ключ від гри Steam( 10-69 ₴).<br>Після оплати товару ви отримаєте на свою пошту рандомний ключ гри з Silver Case",
+            "special":"case",
+            "games": ["PIP 5 - 10₴","asdasd - 99₴","asdasd - 129₴","ikdfng - 159₴","bncvnbjcv - 999₴","kaskdf - 1499₴"]
+        }
+    }
+}
